@@ -24,7 +24,6 @@
       }),
       innerErrorDiv = errorDiv.append([deadImg, titleStr, contentEle]),
       fullPage = mainPage.append(innerErrorDiv);
-    console.log(mainPage);
 
     $(this).hover(function() {
       var mainPage = $('.error-page');
