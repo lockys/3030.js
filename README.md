@@ -1,7 +1,9 @@
 # %%30%30.js
-Experience the %%30%30 bug of chrome on different browser!:dizzy_face:   
+Experience the %%30%30 bug of chrome on different browser! :dizzy_face:   
 ![](https://raw.githubusercontent.com/lockys/3030.js/master/media/record.gif)
-[DEMO](http://lockys.github.io/3030.js/)
+
+
+:arrow_right:[Demo](http://lockys.github.io/3030.js/)
 Include
 ==
 ```javascript
