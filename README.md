@@ -1,5 +1,6 @@
 # %%30%30.js
-A cross-browser for chrome %%30%30 implementation.:dizzy_face:  
+Experience the %%30%30 bug of chrome on different browser!:dizzy_face:   
+![](https://raw.githubusercontent.com/lockys/3030.js/master/media/record.gif)
 [DEMO](http://lockys.github.io/3030.js/)
 Include
 ==
