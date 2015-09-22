@@ -1,5 +1,5 @@
 # %%30%30.js
-A cross-browser for chrome %%30%30 implementation. 
+A cross-browser for chrome %%30%30 implementation.   
 [DEMO](http://lockys.github.io/percent-percent-30-percent-30.js/)
 Include
 ==
