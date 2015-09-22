@@ -1,5 +1,5 @@
 # %%30%30.js
-A cross-browser for chrome %%30%30 implementation.:dizzy_face: 
+A cross-browser for chrome %%30%30 implementation.:dizzy_face:  
 [DEMO](http://lockys.github.io/3030.js/)
 Include
 ==
