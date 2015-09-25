@@ -5,8 +5,8 @@ Experience the %%30%30 bug of chrome on different browsers! :dizzy_face:
 The real effect of this bug:
 ![](https://raw.githubusercontent.com/lockys/3030.js/master/media/record.gif)
 
-fake it!
-![](http://i.imgur.com/DjzIVF5.gif)
+fake it:  
+![](http://i.imgur.com/nbeIdlI.gif)
 
 :arrow_right: [Demo](http://lockys.github.io/3030.js/)
 Include
@@ -24,6 +24,10 @@ $(document).ready(function() {
   $('.break-link').breakThisLink();
 });
 ```
+
+Contibute
+==
+Feel free to PRs to make this bug work like real!
 
 LICENSE
 ==
