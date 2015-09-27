@@ -1,5 +1,5 @@
 /**
-* This script mimic the %%30%30 bug of Google Chrome.
+* This script mimics the %%30%30 bug of Google Chrome.
 * 30.js
 * Auther: Hao-Wei Jeng
 **/
