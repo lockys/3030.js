@@ -25,7 +25,7 @@ $(document).ready(function() {
 });
 ```
 
-Contibute
+Contribute
 ==
 Feel free to PRs to make this bug work like real!
 
