@@ -34,4 +34,4 @@ Feel free to PRs to make this bug work like real!
 LICENSE
 ==
 MIT @ Hao-Wei Jeng  
-Inspired by [szhu/3030](https://github.com/szhu/3030)
+Inspired by [szhu/3030](https://github.com/szhu/3030/tree/gh-pages)
