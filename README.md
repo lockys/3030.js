@@ -1,6 +1,5 @@
 # %%30%30.js
-[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=flat)][Test]
-
+[![授權](https://img.shields.io/badge/授權-MIT-blue.svg?style=flat-square)][License]
 Experience the %%30%30 bug of chrome on different browsers! :dizzy_face:   
 **This bug has been fixed in the 45.0.2454.101 version of Chrome browser.**  
 For more details, check [szhu's 3030 game](https://github.com/szhu/3030/tree/gh-pages#whats-this-about)  
