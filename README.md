@@ -1,8 +1,10 @@
 # %%30%30.js 
 Experience the %%30%30 bug of chrome on different browsers!   
+For those who do not know the bugs, refer to [here](https://bugs.chromium.org/p/chromium/issues/detail?id=533361)  
+**This bug has been fixed in the 45.0.2454.101 version of Chrome browser.**  
 
-**This [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=533361) has been fixed in the 45.0.2454.101 version of Chrome browser.**  
-For more details, check [szhu's 3030 game](https://github.com/szhu/3030/tree/gh-pages#whats-this-about)  
+Althought it has been fixed, you can still get it from [szhu's 3030 game](https://github.com/szhu/3030/tree/gh-pages#whats-this-about)  
+
 This is what happen when this bug is triggered:
 ![](https://raw.githubusercontent.com/lockys/3030.js/master/media/record.gif)
 
