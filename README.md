@@ -1,15 +1,16 @@
 # %%30%30.js 
-Experience the %%30%30 bug of chrome on different browsers! :dizzy_face:   
+Experience the %%30%30 bug of chrome on different browsers!   
+
 **This [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=533361) has been fixed in the 45.0.2454.101 version of Chrome browser.**  
 For more details, check [szhu's 3030 game](https://github.com/szhu/3030/tree/gh-pages#whats-this-about)  
-The real effect of this bug:
+This is what happen when this bug is triggered:
 ![](https://raw.githubusercontent.com/lockys/3030.js/master/media/record.gif)
 
-fake it:  
+let's fake it:  
 ![](http://i.imgur.com/nbeIdlI.gif)
+Check out the [Demo](http://lockys.github.io/3030.js/)
 
-:arrow_right: [Demo](http://lockys.github.io/3030.js/)
-Include
+Get Started
 ==
 ```javascript
 <link rel="stylesheet" href="./dist/css/30.min.css" media="screen" charset="utf-8">
@@ -17,7 +18,7 @@ Include
 <script src="./dist/js/30.min.js" charset="utf-8"></script>
 ```
 
-Usage
+How To Use it
 ==
 ```javascript
 $(document).ready(function() {
@@ -27,7 +28,7 @@ $(document).ready(function() {
 
 Contribute
 ==
-Feel free to PRs to make this bug work like real!
+I'm not maintaining this just-for-fun stuff. But feel free to send PRs to make this bug work like real!
 
 LICENSE
 ==
