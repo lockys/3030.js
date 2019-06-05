@@ -9,7 +9,7 @@ This is what happen when this bug is triggered:
 ![](https://raw.githubusercontent.com/lockys/3030.js/master/media/record.gif)
 
 let's fake it:  
-![](http://i.imgur.com/nbeIdlI.gif)
+![](http://i.imgur.com/nbeIdlI.gif)  
 Check out the [Demo](http://lockys.github.io/3030.js/)
 
 Get Started
